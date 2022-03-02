@@ -24,20 +24,20 @@
       </tr>
       <tr>
         <td>3</td>
-        <td>Post malone</td>
+        <td>Post Malone</td>
         <td><img src="https://www.billboard.com/wp-content/uploads/2022/01/feature-post-malone-billboard-2022-bb01-eric-ryan-anderson-6-1240.jpg?w=800" width="45px"></td>
         <td><a href="https://www.facebook.com/postmalone">Facebook</a></td>
       </tr>
       <tr>
         <td>4</td>
-        <td>PP Krit amnuaydechkorn</td>
-        <td><img src="https://www.newtv.co.th/images/content/ct_20201210115011352.jpg.jpg" width="45px"></td>
+        <td>PP Krit Amnuaydechkorn</td>
+        <td><img src="https://thailandsuperstar.com/images/pix/1958019636/T_2323872871870831477.jpg" width="45px"></td>
         <td><a href="https://twitter.com/ppkritt">Twitter</a></td>
       </tr>
       <tr>
         <td>5</td>
-        <td>Billkin Putthipong assaratanakul</td>
-        <td><img src="https://thailandsuperstar.com/images/pix/238193543/T_2476318043941257236.jpg.jpg" width="45px"></td>
+        <td>Billkin Putthipong Assaratanakul</td>
+        <td><img src="https://static.trueplookpanya.com/tppy/member/m_545000_547500/545920/cms/images/%E0%B8%9A%E0%B8%B4%E0%B8%A7%E0%B8%81%E0%B8%B4%E0%B9%89%E0%B8%9902.jpg" width="45px"></td>
         <td><a href="https://twitter.com/bbillkin">Twitter</a></td>
       </tr>
     </table>
